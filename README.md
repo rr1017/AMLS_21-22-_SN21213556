@@ -11,3 +11,21 @@ This repository was created to implement two algorithms: a binary classifier and
 Classification (MRI).” Kaggle, 2020, doi: 10.34740/KAGGLE/DSV/1183165"
 
 To run the algorithms developed for this project simply follow the instructions given on the "Script.ipynb" file.
+
+A list of all required packages and libraries is presented below:
+
+Pillow
+pandas
+matplotlib
+numpy
+scipy
+pywt
+skimage 
+sklearn
+imblearn
+seaborn
+mlxtend
+torch
+torchvision
+skorch
+
