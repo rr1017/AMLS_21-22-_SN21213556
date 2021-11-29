@@ -15,17 +15,29 @@ To run the algorithms developed for this project simply follow the instructions 
 A list of all required packages and libraries is presented below:
 
 Pillow
-pandas
-matplotlib
-numpy
-scipy
-pywt
-skimage 
-sklearn
-imblearn
-seaborn
-mlxtend
-torch
-torchvision
-skorch
 
+pandas
+
+matplotlib
+
+numpy
+
+scipy
+
+pywt
+
+skimage 
+
+sklearn
+
+imblearn
+
+seaborn
+
+mlxtend
+
+torch
+
+torchvision
+
+skorch
